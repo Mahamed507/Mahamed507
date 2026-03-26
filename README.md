@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahamed</h1>
 <h3 align="center">A passionate frontend developer/Backend from Saint Paul, MN</h3>
 
-- 🔭 I’m currently working on building a Project(Stay tuned🙃)
-
-- 🌱 I’m currently learning **Spring-boot(Review), React.js**
+- 🔭 I’m currently working on building a Project
 
 - 📫 How to reach me **mahamedaden976@gmail.com**
 
